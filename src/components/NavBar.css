@@ -30,3 +30,7 @@
     text-decoration: none;
     color: white;
   }
+
+  .navbar-menu a:hover {
+    text-decoration: underline;
+  }
